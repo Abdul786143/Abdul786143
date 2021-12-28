@@ -2,11 +2,11 @@
 int main()
 {
 	printf("introduce my self");
-	printf("my name is jayakumar");
-    printf("iam from tirupathi");
+	printf("my name is abdul");
+    printf("iam from rayachoty");
     printf("local");
     printf("i got seat in svce");
-    printf ("mechanical branch");
-    printf("my dream ");
-    printf("i do anything");
+    printf ("Information Technology branch");
+    printf("my dream IPS");
+    printf("i do WHAT I THINK");
 }
